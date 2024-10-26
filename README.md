@@ -6,8 +6,16 @@
 
 ###
 
+<br clear="both">
+
+<h3 align="center">💻 Visitors:</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=le3shiri.le3shiri&"  />
+  <img src="https://profile-counter.glitch.me/le3shiri/count.svg?"  />
 </div>
 
 ###
@@ -37,12 +45,6 @@
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" height="323" src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif?cid=790b7611m295yhkpjt3cm8gkyrndlzjj6hoc7k9pherht9cr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -85,6 +87,12 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="45" alt="wordpress logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="323" src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif?cid=790b7611m295yhkpjt3cm8gkyrndlzjj6hoc7k9pherht9cr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
