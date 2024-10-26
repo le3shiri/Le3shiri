@@ -48,6 +48,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="323" src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif?cid=790b7611m295yhkpjt3cm8gkyrndlzjj6hoc7k9pherht9cr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="45" alt="c logo"  />
   <img width="12" />
@@ -87,12 +93,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="45" alt="wordpress logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="323" src="https://media.giphy.com/media/25UxpWoNBu8nOtURm9/giphy.gif?cid=790b7611m295yhkpjt3cm8gkyrndlzjj6hoc7k9pherht9cr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
